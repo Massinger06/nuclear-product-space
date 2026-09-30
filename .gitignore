@@ -1,0 +1,12 @@
+# Datos pesados: no se suben
+data/*
+!data/README.md
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+# Sistema
+.DS_Store
