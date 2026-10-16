@@ -1,0 +1,6 @@
+MIN_EXPORT,omega_COL,puesto_COL,n_paises,percentil_canasta,exportadores_canasta
+0,0.0753,80,164,23,103
+10,0.0752,79,164,23,102
+100,0.0722,73,164,20,93
+1000,0.06,64,164,24,78
+10000,0.0313,64,164,33,54
